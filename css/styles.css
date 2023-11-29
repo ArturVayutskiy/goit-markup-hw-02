@@ -11,7 +11,7 @@ body {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px; /* 116.667% */
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
@@ -49,6 +49,10 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #404bbf ;
+}
+
+.address-list {
+    color: #434455;
 }
 
 .address-list:active {
@@ -89,9 +93,9 @@ body {
 
 /* Section Second */
 
-.section-second-list {
+/* .section-second-list {
     
-}
+} */
 
 .section-second-title {
     color: #2E2F42;
@@ -107,4 +111,90 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+/* Section third */
+.section-third {
+    background-color: #F4F4FD;
+}
+
+.section-third-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:  #2e2f42;
+}
+
+.section-third-list {
+    background-color: #FFFFFF
+
+}
+
+.section-third-list-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.section-third-list-parag {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
+}
+
+/* Section-fourth */
+
+.section-fourth-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.section-fourth-list-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.section-fourth-parag {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+/* Footer */
+
+.footer {
+    background-color: #2E2F42;
+}
+
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+
+.footer-span {
+    color: #ffffff;
+}
+
+.footer-parag {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
