@@ -56,7 +56,7 @@ body {
     color: #404bbf;
 }
 
-.contacts:active {
+.contacts:focus {
     color: #404bbf;
 }
 
