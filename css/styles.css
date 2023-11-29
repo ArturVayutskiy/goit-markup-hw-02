@@ -52,11 +52,11 @@ body {
     color: #434455;
 }
 
-.address-list {
-    color: #434455;
+.contacts:hover {
+    color: #404bbf;
 }
 
-.address-list:active {
+.contacts:active {
     color: #404bbf;
 }
 
