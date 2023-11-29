@@ -21,7 +21,7 @@ body {
 }
 
 .header-list {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
 
     /* Body Medium */
     font-family: Roboto;
@@ -30,6 +30,7 @@ body {
     font-weight: 500;
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
+    color: #434455;
 }
 
 .header-list:hover {
@@ -170,7 +171,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #434455;
 }
 
 /* Footer */
@@ -190,7 +191,7 @@ body {
 }
 
 .footer-span {
-    color: #ffffff;
+    color: #F4F4FD;
 }
 
 .footer-parag {
