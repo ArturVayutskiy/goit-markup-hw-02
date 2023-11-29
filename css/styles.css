@@ -37,10 +37,10 @@ body {
 
 /* Adress */
 .address {
-    
+    font-style: normal;
 }
 
-.address-list {
+.contacts {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #404bbf ;
