@@ -55,7 +55,7 @@ body {
     color: #404bbf;
 }
 
-/* First sectio */
+/* First section */
 
 .section-first {
     background-color: #2e2f42;
@@ -85,4 +85,26 @@ body {
 
 .section-first-button:focus {
     background-color: #404BBF
+}
+
+/* Section Second */
+
+.section-second-list {
+    
+}
+
+.section-second-title {
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.section-second-paragraph {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
