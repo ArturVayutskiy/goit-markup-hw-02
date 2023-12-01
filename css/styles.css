@@ -53,6 +53,7 @@ a {
 /* Adress */
 .address {
     font-style: normal;
+    list-style: none;
 }
 
 .contacts {
